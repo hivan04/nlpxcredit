@@ -1,2 +1,4 @@
-# Using Natural Language Processing to identify sentiments in the market for credit risk modelling.
-Objective: Use Sentiment Analysis (NLP) to form a credit risk model. 
+# Financial News Web Scraper
+
+A comprehensive web scraper designed to collect relevant financial and technology articles from Financial Times.
+
