@@ -1,0 +1,23 @@
+2025-08-08 17:33:12,308 - INFO - ====== WebDriver manager ======
+2025-08-08 17:33:13,679 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-08 17:33:13,697 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-08 17:33:13,710 - INFO - Driver [C:\Users\Ivan\.wdm\drivers\chromedriver\win64\138.0.7204.183\chromedriver-win32/chromedriver.exe] found in cache
+2025-08-08 17:33:14,782 - INFO - Selenium WebDriver initialized successfully
+2025-08-08 17:33:14,782 - INFO - Scraping Financial Times Technology: https://www.ft.com/technology
+2025-08-08 17:33:18,104 - INFO - Found 397 articles from main source
+2025-08-08 17:33:18,106 - INFO - Scraping Financial Times AI: https://www.ft.com/artificial-intelligence
+2025-08-08 17:33:18,106 - INFO - Scraping Financial Times Tech Companies: https://www.ft.com/companies/technology
+2025-08-08 17:33:18,106 - INFO - Scraping Financial Times Tech Sector: https://www.ft.com/tech-sector
+2025-08-08 17:33:19,432 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-08-08 17:33:19,433 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-08-08 17:33:21,609 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-08-08 17:33:21,671 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-08-08 17:33:21,755 - INFO - Found 268 articles from Financial Times AI
+2025-08-08 17:33:22,275 - INFO - Found 268 articles from Financial Times Tech Sector
+2025-08-08 17:33:22,328 - INFO - Found 268 articles from Financial Times Tech Companies
+2025-08-08 17:33:30,415 - INFO - Total unique articles found: 85
+2025-08-08 17:33:30,416 - INFO - Filtered 85 articles down to 67 relevant articles
+2025-08-08 17:33:30,420 - INFO - Saved 67 articles to ft_technology_articles.csv
+2025-08-08 17:33:30,422 - INFO - Saved 67 articles to ft_technology_articles.json
+2025-08-08 17:33:30,643 - INFO - Saved 67 articles to ft_technology_articles.xlsx
+2025-08-08 17:33:32,770 - INFO - Selenium WebDriver closed
